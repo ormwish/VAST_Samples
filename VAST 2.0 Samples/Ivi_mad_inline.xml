@@ -1,0 +1,59 @@
+<VAST version="2.0">
+<script/>
+<Ad id="968540">
+<InLine>
+<AdSystem>mad</AdSystem>
+<AdTitle>Яндекс Go_Суперапп_ Nov-Dec'23</AdTitle>
+<Error>
+<![CDATA[ https://l1.ivi.ru/logger/px/?b=YWR2aWQ9ODM1OTMxJmFkdndhdGNoaWQ9MDExZGE5NWYtNWE1NS00OTJlLWFjYjItM2M2NTZjNDk1OTg4JmFwcF92ZXJzaW9uPTI1NTc4JmNvbnRlbnRpZD0xNzQwMTUmY291bnRyeV9wbGFjZV9pZD00MTIwNyZldmVudD1lcnJvciZpcD0xOTIuMTY4LjY0LjQmaXZpdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmb3JkZXJpZD05Njg1NDAmcGxhY2VfaWQ9NDEyMDcmcG9zX2luX2Jsb2NrPTAmc2VyaWFsX2lkPTIwamtlazImc2l0ZT1zNDQwMSZ0PTE3MDA1MTYwODImdHRsPTYwMCZ0eXBlPXByZXJvbGwmdHlwZV9pZD0xJnVpZD00NjM5ODA5NTgzMDQ0NDIzNDI2JndhdGNoaWQ9RTU4MDBBQkJqRUQyNmo0NzUyakI5QUJqMEZEOEE3MDRCMTlBalcwRmozMDAwNyZzaWduPUNKSWZ4ZWM2dXpGRUN5T1Q5eE5yWEE&n=1&e=[ERRORCODE] ]]>
+</Error>
+<Impression>
+<![CDATA[ https://l1.ivi.ru/logger/px/?b=YWR2aWQ9ODM1OTMxJmFkdndhdGNoaWQ9MDExZGE5NWYtNWE1NS00OTJlLWFjYjItM2M2NTZjNDk1OTg4JmFwcF92ZXJzaW9uPTI1NTc4JmNvbnRlbnRpZD0xNzQwMTUmY291bnRlcnM9b3JkZXJfOTY4NTQwJTJDY2FtcGFpZ25fMTkyODU0JmNvdW50cnlfcGxhY2VfaWQ9NDEyMDcmZXZlbnQ9c2hvdyZpcD0xOTIuMTY4LjY0LjQmaXZpdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmb3JkZXJpZD05Njg1NDAmcGxhY2VfaWQ9NDEyMDcmcG9zX2luX2Jsb2NrPTAmc2VyaWFsX2lkPTIwamtlazImc2l0ZT1zNDQwMSZzdGF0c2Q9YWR2LnNob3dzLjE5Mjg1NC45Njg1NDAuODM1OTMxJnQ9MTcwMDUxNjA4MiZ0dGw9NjAwJnR5cGU9cHJlcm9sbCZ0eXBlX2lkPTEmdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmd2F0Y2hpZD1FNTgwMEFCQmpFRDI2ajQ3NTJqQjlBQmowRkQ4QTcwNEIxOUFqVzBGajMwMDA3JnNpZ249MG5laHYtX3FON1BqNHU2MjNweUp1dw&n=1 ]]>
+</Impression>
+<Creatives>
+<Creative id="142799">
+<Linear>
+<Duration>00:00:20</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[ https://l1.ivi.ru/logger/px/?b=YWR2aWQ9ODM1OTMxJmFkdndhdGNoaWQ9MDExZGE5NWYtNWE1NS00OTJlLWFjYjItM2M2NTZjNDk1OTg4JmFwcF92ZXJzaW9uPTI1NTc4JmNvbnRlbnRpZD0xNzQwMTUmY291bnRyeV9wbGFjZV9pZD00MTIwNyZldmVudD0yNSZpcD0xOTIuMTY4LjY0LjQmaXZpdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmb3JkZXJpZD05Njg1NDAmcGxhY2VfaWQ9NDEyMDcmcG9zX2luX2Jsb2NrPTAmc2Vjb25kcz01JnNlcmlhbF9pZD0yMGprZWsyJnNpdGU9czQ0MDEmdD0xNzAwNTE2MDgyJnR0bD02MDAmdHlwZT1wcmVyb2xsJnR5cGVfaWQ9MSZ1aWQ9NDYzOTgwOTU4MzA0NDQyMzQyNiZ3YXRjaGlkPUU1ODAwQUJCakVEMjZqNDc1MmpCOUFCajBGRDhBNzA0QjE5QWpXMEZqMzAwMDcmc2lnbj1YOXQzUml6YU9DRHF1SEtnNXlmYlZB&n=1 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://l1.ivi.ru/logger/px/?b=YWR2aWQ9ODM1OTMxJmFkdndhdGNoaWQ9MDExZGE5NWYtNWE1NS00OTJlLWFjYjItM2M2NTZjNDk1OTg4JmFwcF92ZXJzaW9uPTI1NTc4JmNvbnRlbnRpZD0xNzQwMTUmY291bnRyeV9wbGFjZV9pZD00MTIwNyZldmVudD01MCZpcD0xOTIuMTY4LjY0LjQmaXZpdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmb3JkZXJpZD05Njg1NDAmcGxhY2VfaWQ9NDEyMDcmcG9zX2luX2Jsb2NrPTAmc2Vjb25kcz0xMCZzZXJpYWxfaWQ9MjBqa2VrMiZzaXRlPXM0NDAxJnQ9MTcwMDUxNjA4MiZ0dGw9NjAwJnR5cGU9cHJlcm9sbCZ0eXBlX2lkPTEmdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmd2F0Y2hpZD1FNTgwMEFCQmpFRDI2ajQ3NTJqQjlBQmowRkQ4QTcwNEIxOUFqVzBGajMwMDA3JnNpZ249S0RQNUhwRFpKR2Q3eVVmX01kcFMzQQ&n=1 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://l1.ivi.ru/logger/px/?b=YWR2aWQ9ODM1OTMxJmFkdndhdGNoaWQ9MDExZGE5NWYtNWE1NS00OTJlLWFjYjItM2M2NTZjNDk1OTg4JmFwcF92ZXJzaW9uPTI1NTc4JmNvbnRlbnRpZD0xNzQwMTUmY291bnRyeV9wbGFjZV9pZD00MTIwNyZldmVudD03NSZpcD0xOTIuMTY4LjY0LjQmaXZpdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmb3JkZXJpZD05Njg1NDAmcGxhY2VfaWQ9NDEyMDcmcG9zX2luX2Jsb2NrPTAmc2Vjb25kcz0xNSZzZXJpYWxfaWQ9MjBqa2VrMiZzaXRlPXM0NDAxJnQ9MTcwMDUxNjA4MiZ0dGw9NjAwJnR5cGU9cHJlcm9sbCZ0eXBlX2lkPTEmdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmd2F0Y2hpZD1FNTgwMEFCQmpFRDI2ajQ3NTJqQjlBQmowRkQ4QTcwNEIxOUFqVzBGajMwMDA3JnNpZ249UWdsMldsZHdEbWV3Zi04ZEt2Nm00QQ&n=1 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://l1.ivi.ru/logger/px/?b=YWR2aWQ9ODM1OTMxJmFkdndhdGNoaWQ9MDExZGE5NWYtNWE1NS00OTJlLWFjYjItM2M2NTZjNDk1OTg4JmFwcF92ZXJzaW9uPTI1NTc4JmNvbnRlbnRpZD0xNzQwMTUmY291bnRyeV9wbGFjZV9pZD00MTIwNyZldmVudD0xMDAmaXA9MTkyLjE2OC42NC40Jml2aXVpZD00NjM5ODA5NTgzMDQ0NDIzNDI2Jm9yZGVyaWQ9OTY4NTQwJnBsYWNlX2lkPTQxMjA3JnBvc19pbl9ibG9jaz0wJnNlY29uZHM9MjAmc2VyaWFsX2lkPTIwamtlazImc2l0ZT1zNDQwMSZ0PTE3MDA1MTYwODImdHRsPTYwMCZ0eXBlPXByZXJvbGwmdHlwZV9pZD0xJnVpZD00NjM5ODA5NTgzMDQ0NDIzNDI2JndhdGNoaWQ9RTU4MDBBQkJqRUQyNmo0NzUyakI5QUJqMEZEOEE3MDRCMTlBalcwRmozMDAwNyZzaWduPTgySDNLSmlMVjl6VXNyWG15Y0pkY0E&n=1 ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://l1.ivi.ru/logger/px/?b=YWR2aWQ9ODM1OTMxJmFkdndhdGNoaWQ9MDExZGE5NWYtNWE1NS00OTJlLWFjYjItM2M2NTZjNDk1OTg4JmFwcF92ZXJzaW9uPTI1NTc4JmNvbnRlbnRpZD0xNzQwMTUmY291bnRyeV9wbGFjZV9pZD00MTIwNyZldmVudD1za2lwJmlwPTE5Mi4xNjguNjQuNCZpdml1aWQ9NDYzOTgwOTU4MzA0NDQyMzQyNiZvcmRlcmlkPTk2ODU0MCZwbGFjZV9pZD00MTIwNyZwb3NfaW5fYmxvY2s9MCZzZXJpYWxfaWQ9MjBqa2VrMiZzaXRlPXM0NDAxJnQ9MTcwMDUxNjA4MiZ0dGw9NjAwJnR5cGU9cHJlcm9sbCZ0eXBlX2lkPTEmdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmd2F0Y2hpZD1FNTgwMEFCQmpFRDI2ajQ3NTJqQjlBQmowRkQ4QTcwNEIxOUFqVzBGajMwMDA3JnNpZ249b056RVhMamJJRlZaUVlTWUk1Q0ZPdw&n=1 ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[ https://l1.ivi.ru/logger/px/?b=YWR2aWQ9ODM1OTMxJmFkdndhdGNoaWQ9MDExZGE5NWYtNWE1NS00OTJlLWFjYjItM2M2NTZjNDk1OTg4JmFwcF92ZXJzaW9uPTI1NTc4JmNvbnRlbnRpZD0xNzQwMTUmY291bnRyeV9wbGFjZV9pZD00MTIwNyZldmVudD1jbGljayZpcD0xOTIuMTY4LjY0LjQmaXZpdWlkPTQ2Mzk4MDk1ODMwNDQ0MjM0MjYmb3JkZXJpZD05Njg1NDAmcGxhY2VfaWQ9NDEyMDcmcG9zX2luX2Jsb2NrPTAmc2VyaWFsX2lkPTIwamtlazImc2l0ZT1zNDQwMSZ0PTE3MDA1MTYwODImdHRsPTYwMCZ0eXBlPXByZXJvbGwmdHlwZV9pZD0xJnVpZD00NjM5ODA5NTgzMDQ0NDIzNDI2JndhdGNoaWQ9RTU4MDBBQkJqRUQyNmo0NzUyakI5QUJqMEZEOEE3MDRCMTlBalcwRmozMDAwNyZzaWduPWppU08wRjg2QVB2R2dkUjJXT29NRFE&n=1 ]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="22057509" delivery="progressive" type="video/mp4" bitrate="734" width="480" height="270" scalable="true" maintainAspectRatio="false" apiFramework="">
+<![CDATA[ http://region.dfs.ivi.ru/mp4-lo/VbqvWHOGk5H5Mqwb-kAcHA,1700552082/storage28/contents/2/a/b1ffc88055b8d9ad085d568a581b2d.mp4 ]]>
+</MediaFile>
+<MediaFile id="22057505" delivery="progressive" type="video/mp4" bitrate="2831" width="1280" height="720" scalable="true" maintainAspectRatio="false" apiFramework="">
+<![CDATA[ http://region.dfs.ivi.ru/mp4-hd720/xJVzxy5w-6svQQWIn3cRpg,1700552082/storage28/contents/0/6/851d570000c3137401d14caa440fa6.mp4 ]]>
+</MediaFile>
+<MediaFile id="22057507" delivery="progressive" type="video/mp4" bitrate="1363" width="720" height="404" scalable="true" maintainAspectRatio="false" apiFramework="">
+<![CDATA[ http://region.dfs.ivi.ru/mp4-hi/ghQc4vFxaWOhptv9rIZ36Q,1700552082/storage28/contents/a/d/9731146e3ebb3262053d745fa11241.mp4 ]]>
+</MediaFile>
+<MediaFile id="22057511" delivery="progressive" type="video/mp4" bitrate="2097" width="960" height="540" scalable="true" maintainAspectRatio="false" apiFramework="">
+<![CDATA[ http://region.dfs.ivi.ru/mp4-shq/FxY5j9zaT6kcl_iZi5HfaA,1700552082/storage28/contents/e/e/cd6d3b00b0a633c5614885dce0278a.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions/>
+</InLine>
+</Ad>
+</VAST>
