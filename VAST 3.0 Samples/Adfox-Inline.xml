@@ -1,1 +1,109 @@
-A
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="http://specs.adfox.ru/uploads/vast.xsd">
+<script/>
+<Ad id="8015902">
+<InLine>
+<AdSystem>AdFox.Ru</AdSystem>
+<AdTitle>Linear Video Ad</AdTitle>
+<Description>video ad</Description>
+<Error>
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=ea7cbbb28f2680a4&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=r&puid23=6&rand=mqysdzr&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Error>
+<Impression id="Adfox">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=6a3250c9a1f2b68a&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=b&puid23=6&rand=eweeguf&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Impression>
+<Impression id="thirdparty">
+<![CDATA[ ]]>
+</Impression>
+<Impression id="thirdparty">
+<![CDATA[ ]]>
+</Impression>
+<Impression id="thirdparty">
+<![CDATA[ ]]>
+</Impression>
+<Impression id="thirdparty">
+<![CDATA[ ]]>
+</Impression>
+<Creatives>
+<Creative id="8015902/2726074">
+<Linear skipoffset="05:00">
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=406c24ea98a682e5&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=c&puid23=6&rand=korcnxg&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=bc6c935588aa2256&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=d&puid23=6&rand=klrlvi&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=f01e1edb9f9aa0bc&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=e&puid23=6&rand=nvpxdue&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=aa1f425d43dd3b6c&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=f&puid23=6&rand=dfpphex&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=0a99194697db4c8e&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=g&puid23=6&rand=iudgsov&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=9024a2cc4179c733&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=h&puid23=6&rand=mwiuiux&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=e31ad7d501141129&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=i&puid23=6&rand=jvnkwwz&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=696af7d0c446c5f5&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=j&puid23=6&rand=hxmyapa&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=1410a31bf37ea9b7&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=k&puid23=6&rand=njoqsco&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=416fbc26521fb6eb&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=l&puid23=6&rand=zaasav&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=8821bd1e0530bb05&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=n&puid23=6&rand=nnxoaqo&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=e03ed2fe5bb87c57&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=o&puid23=6&rand=msrigi&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[ https://ads.adfox.ru/721500/event?hash=fbce83b800cee55e&p5=robvy&lts=fndgeyf&rqs=4fXtXLYR-FeF0ltlmAdPahqKH67QldQt&puid36=1&puid32=3&pm=m&puid23=6&rand=fspmlck&sj=OE3_1ZOcIf3oySDqfJK7SgwCQJhH-PWzHo06rbCOZ2W3-sFKDd43wOxLlEccrDImX7V8AFZpqY7QbWnMyOgKmvGvkiOnPKCzYNXt1_A%3D&puid16=2&puid9=2&p2=hyxp&puid8=14&puid6=1&puid18=14&puid4=1&puid3=10&pr=a&p1=cwrcz ]]>
+</Tracking>
+</TrackingEvents>
+<AdParameters/>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ ]]>
+</ClickThrough>
+<ClickTracking id="thirdparty">
+<![CDATA[ ]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile type="video/mp4" width="1280" height="720" bitrate="256" delivery="progressive">
+<![CDATA[ https://strm.yandex.ru/vh-adfox-converted/vod-content/11255254109955454773/dddecbb9-7982-4357-a057-eef0a518f3f4_169_480p.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="skipTime2"> 05:00 </Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
